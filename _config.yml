@@ -1,0 +1,28 @@
+name: SketchyNotebook
+favicon: null
+layout_spectrum: 0.28524847980588675
+typography_spectrum: 0.4589975094422698
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.10101557616144419
+  lightness: 0.9418823164887726
+  saturation: 0.9881005899515003
+  rhythmicContrast: 0.7800121712498367
+purpose: []
